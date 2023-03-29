@@ -1,4 +1,4 @@
-# code below is the error code
+# code block below is the error code
 #Fix the code below 👇
 
 print(Day 1 - String Manipulation")
