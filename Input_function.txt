@@ -1,4 +1,4 @@
 print(len(input("What is your name?")))
 
 #input function essentially is replaced by the input, here the input statement is nested 
-#with the len function which will count how many characters are in the input
+#with the len function which will count how many characters are in the input then print the number of charcters from the input.
