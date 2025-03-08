@@ -1,2 +1,2 @@
-# Python
-This is essentially a place where I can upload Python projects that I've worked on.
+# 100 Days of Python
+I'm reviving this project to keep up with my python skills. It entails 100 days of python programming with projects that will be built out through each day. Each project will build on the other project in increasing difficulty.
